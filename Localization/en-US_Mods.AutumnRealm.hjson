@@ -1,2 +1,22 @@
-# This file will automatically update with entries for new content after a build and reload.
+Items: {
+	TestSword: {
+		DisplayName: Test Sword
+		Tooltip: ""
+	}
 
+	AnkhShell: {
+		DisplayName: Ankh Shell
+		Tooltip:
+			'''
+			Grants immunity to most debuffs and knockback
+			Increases all damage and crit chance by 10%
+			Increases life regen by 2
+			Increases defense by 4
+			Increases movement speed by 10%
+			Allows water movement bonuses
+			Increases melee speed at night
+			'''
+	}
+}
+
+Projectiles.TestSwordProjectile.DisplayName: Test Sword Projectile
