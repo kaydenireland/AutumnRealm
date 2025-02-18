@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutumnRealm", "AutumnRealm.csproj", "{08214AD8-0053-72D5-5511-D2740B41C4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08214AD8-0053-72D5-5511-D2740B41C4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08214AD8-0053-72D5-5511-D2740B41C4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08214AD8-0053-72D5-5511-D2740B41C4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08214AD8-0053-72D5-5511-D2740B41C4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D875AA-54E0-45F4-AD74-08122C5E0AE5}
+	EndGlobalSection
+EndGlobal
