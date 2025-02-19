@@ -17,6 +17,11 @@ Items: {
 			Increases melee speed at night
 			'''
 	}
+
+	BejeweledStaff: {
+		DisplayName: Bejeweled Staff
+		Tooltip: Do not give to dodo birds
+	}
 }
 
 Projectiles.TestSwordProjectile.DisplayName: Test Sword Projectile
